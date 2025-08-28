@@ -1,6 +1,6 @@
 # 🚀 Large Language Model (LLM) from Scratch  
 
-![LLM Training](llml.gif)  
+![LLM Training](llm.gif)  
 
 This repository provides a **step-by-step implementation of a Large Language Model (LLM) from scratch**, covering:  
 
